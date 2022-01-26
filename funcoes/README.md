@@ -1,6 +1,6 @@
 # Funções
 
-Projetos referentes ao curso "Funções" disponível no portal [Digital Innovation One](https://digitalinnovation.one/).
+Projetos referentes ao curso "Funções" disponível no portal [Digital Innovation One](https://digitalinnovation.one/)
 
 ## Atividade 1: Alunos Aprovados
 
